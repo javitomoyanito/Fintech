@@ -41,10 +41,6 @@ Control de Versiones:
 Git: Para el seguimiento del código y scripts de infraestructura.
 
 Instrucciones de Instalación
-Clonar el repositorio:
-
-git clone https://github.com/usuario/fintech-lakehouse-system.git
-cd fintech-lakehouse-system
 
 Configurar variables de entorno:
 Crea un archivo .env basado en el ejemplo proporcionado:
